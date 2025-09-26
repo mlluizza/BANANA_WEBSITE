@@ -9,7 +9,7 @@
  **📁 Project Structure**
 
 ``` bash
- salad-meeting/
+ banana/
 ├── images/           # Images used in the project
 ├── index.html/       # Main HTML page
 └── style.css/        # Custom styles for the project
